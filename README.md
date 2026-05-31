@@ -61,11 +61,5 @@ Install via Arduino IDE: Sketch → Include Library → Manage Libraries
 5. Upload src/main.ino to your ESP32
 6. Press button to display readings
 
-## Planned Improvements
-- Custom PCB with integrated charging circuit
-- Solar charging via CN3791 IC
-- Deep sleep for extended battery life
-- 3D printed enclosure
-
 ## License
 MIT
